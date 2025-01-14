@@ -22,7 +22,7 @@ An aesthetically pleasing and well-structured website builds trust and encourage
 
 **1. Design and Aesthetics**
 
-The design of your website should align with your brand’s personality. Whether you prefer a minimalist design, something more vibrant, or something in between, ensure the theme offers customization options that fit your needs. <a href="https://www.sktthemes.org/product-category/free-wordpress-themes/">SKT WordPress Themes</a> offers a variety of themes designed for business use, from professional to creative themes that match different branding styles.
+The design of your website should align with your brand’s personality. Whether you prefer a minimalist design, something more vibrant, or something in between, ensure the theme offers customization options that fit your needs. <a href="[https://www.sktthemes.org/product-category/free-wordpress-themes/](https://www.sktthemes.org/product-category/free-wordpress-themes/)">Free Themes of WordPress</a> offers a variety of themes designed for business use, from professional to creative themes that match different branding styles.
 
 **2. Mobile Responsiveness**
 
